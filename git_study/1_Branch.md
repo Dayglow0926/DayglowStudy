@@ -56,8 +56,6 @@ Git 에서는 작업에 따라 자유롭게 브랜치를 만들 수 있다.
 
 토픽브랜치에서 특정 작업이 완료되면 다시 통합 브랜치에 병합하는 방식으로 진행된다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20a6194f-4e05-4b16-a1a9-469247fb0f3b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20a6194f-4e05-4b16-a1a9-469247fb0f3b/Untitled.png)
-
 ## #브랜치 전환하기
 
 Git 에서는 항상 작업할 브랜치를 미리 선택해야 하며,
@@ -88,7 +86,6 @@ HEAD 를 이동하면, 사용하는 브랜치가 변경된다.
 
 ^ 은 브랜치 병합에서 원본이 여럿 있는 경우 몇 번째 원본인지를 지정할 수 있다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ceebe468-9726-4d2c-ba1f-df22876de67c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ceebe468-9726-4d2c-ba1f-df22876de67c/Untitled.png)
 
 ## #stash
 
@@ -104,7 +101,6 @@ stash : 파일의 변경 내용을 일시적으로 기록해두는 영역
 
 이럴 경우에는 커밋을 진행하거나 stash를 이용해 일시적으로 변경 내용을 다른 곳에 저장하여 충돌을 피하게 한뒤 체크 아웃을 해야한다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af1fae21-454f-482b-997c-385c6d05a8af/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af1fae21-454f-482b-997c-385c6d05a8af/Untitled.png)
 
 ## #브랜치 통합하기
 
